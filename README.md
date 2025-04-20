@@ -8,7 +8,7 @@
 
 - 💻 Optional courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
-- 👀 Looking to get instructions on **CV / NLP**
+- 👀 Looking to get instructions on **ML**
 
 - 📫 How to reach me: 
     - School email: 12312110@mail.sustech.edu.cn
