@@ -19,15 +19,3 @@
     - **Language learning**: **Japanese**, Cantonese, Spanish, German
     - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 so far
 
-
-### 📄 My work
-
-#### Projects:
-
-- CS109 JavaA 25Spring: Klotski Puzzle
-- CS207 Digital Logic 24Fall: Control circuit of the kitchen exhaust hood
-
-#### Competitions:
-
-- 2025 "Lanqiao" C/C++ Group B
-- 2024 MCM/ICM
