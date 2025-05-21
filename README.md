@@ -8,7 +8,7 @@
 
 - 💻 Optional courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
-- 👀 Looking to get instructions on **ML**
+- 👀 Looking to get instructions on **ML/NLP**
 
 - 📫 How to reach me: 
     - School email: 12312110@mail.sustech.edu.cn
@@ -17,5 +17,5 @@
 - 😄 Hobbies: 
     - **Laws**: [@CUPL](https://www.cupl.edu.cn) 2022 but gave up, mainly focus on **criminal law**
     - **Language learning**: **Japanese**, Cantonese, Spanish, German
-    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 so far, 🇱🇦 next station
+    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 so far, 🇱🇦 next
     - **Snooker**
