@@ -2,13 +2,13 @@
 
 ### 💾 Information
 
-- 📖 A sophomore at [@SUSTech](https://www.sustech.edu.cn)
+- 📖 A junior student at [@SUSTech](https://www.sustech.edu.cn)
 
-- 🌱 Supposed to be a liberal arts student, but now major in **mathematics**
+- 🌱 Supposed to learn liberal arts, but now major in **mathematics**
 
 - 💻 Optional courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
-- 👀 Looking to get instructions on **ML/NLP**
+- 👀 Now focus on split federated learning, **SFL**. Interested in **NLP**.
 
 - 📫 How to reach me: 
     - School email: 12312110@mail.sustech.edu.cn
