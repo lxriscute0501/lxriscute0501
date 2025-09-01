@@ -8,7 +8,7 @@
 
 - 💻 Optional courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
-- 👀 Now focus on split federated learning, **SFL**. Interested in **NLP**.
+- 👀 Interested in **NLP**.
 
 - 📫 How to reach me: 
     - School email: 12312110@mail.sustech.edu.cn
@@ -16,6 +16,6 @@
 
 - 😄 Hobbies: 
     - **Laws**: [@CUPL](https://www.cupl.edu.cn) 2022 but gave up, mainly focus on **criminal law**
-    - **Language learning**: **Japanese**, Cantonese, Spanish, German
+    - **Language learning**: Japanese, Cantonese, Spanish, Vietnamese
     - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 so far, 🇱🇦 next
     - **Snooker**
