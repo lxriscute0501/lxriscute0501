@@ -16,6 +16,6 @@
 
 - 😄 Hobbies: 
     - **Laws**: [@CUPL](https://www.cupl.edu.cn) 2022 but gave up, mainly focus on **criminal law**
-    - **Language learning**: Japanese, Cantonese, Spanish, Vietnamese
-    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 so far, 🇱🇦 next
+    - **Language learning**: Japanese, Cantonese, Spanish, German, Vietnamese
+    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 🇱🇦
     - **Snooker**
