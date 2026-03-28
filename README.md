@@ -6,7 +6,7 @@
 
 - 🌱 Supposed to learn liberal arts, but now major in **mathematics**
 
-- 💻 Optional courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
+- 💻 Selective courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
 - 👀 Interested in **Deep Learning Optimization**.
 
