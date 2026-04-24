@@ -2,17 +2,15 @@
 
 ### 💾 Information
 
-- 📖 A junior student at [@SUSTech](https://www.sustech.edu.cn)
+- 📖 Junior, Dept. of Mathematics, [@SUSTech](https://www.sustech.edu.cn)
 
-- 🌱 Supposed to learn liberal arts, but now major in **mathematics**
+- 🌱 Advisor: Associate Professor [Ming Tang](https://mingtang.website)
+  - Split Federated Learning
+  - Deep Learning Optimization under BP-free
 
 - 💻 Selective courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
-- 👀 Interested in **Deep Learning Optimization**.
-
-- 📫 How to reach me: 
-    - School email: 12312110@mail.sustech.edu.cn
-    - Personal email: lixuanran798@gmail.com
+- 📫 Email: 12312110@mail.sustech.edu.cn
 
 - 😄 Hobbies: 
     - **Laws**: [@CUPL](https://www.cupl.edu.cn) 2022 but gave up, mainly focus on **criminal law**
