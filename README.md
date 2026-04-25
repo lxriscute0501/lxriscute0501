@@ -4,7 +4,7 @@
 
 - 📖 Junior, Dept. of Mathematics, [@SUSTech](https://www.sustech.edu.cn)
 
-- 🌱 Advisor: Associate Professor [Ming Tang](https://mingtang.website)
+- 🌱 Advisor: Associate Professor [Ming Tang](https://mingtang.website), Dept. of CSE
   - Split Federated Learning
   - Deep Learning Optimization under BP-free
 
