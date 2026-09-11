@@ -16,7 +16,7 @@
 - 📫 Email: 12312110@mail.sustech.edu.cn
 
 - 😄 Hobbies:
-    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭(3) 🇹🇭 🇱🇦 🇸🇬 🇲🇾(2) 🇧🇳, 🇵🇭 🇰🇷
+    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 🇱🇦 🇸🇬 🇲🇾 🇧🇳, 🇵🇭 🇰🇷
     - **Language learning**: Japanese, Spanish, German, Vietnamese
     - **Laws**: [@CUPL](http://en.cupl.edu.cn) 2022 but dropped out, mainly focus on **criminal law**
     - **Snooker**
