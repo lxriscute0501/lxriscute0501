@@ -6,18 +6,17 @@
 
 - 🌱 Advisor: [Prof. Ming Tang](https://mingtang.website) in the Department of CSE. I also collaborate with [Prof. Chao Huang](https://felixchaohuang.github.io) at [Montclair State University](https://www.montclair.edu).
   - Split Federated Learning
-  - Deep Learning Optimization under BP-free
+  - Optimization in network
  
 - Meanwhile, I am also a remote research intern in [PRADA Lab](https://pradalab1.github.io) at [KAUST](https://www.kaust.edu.sa/en/), advised by [Prof. Di Wang](https://shao3wangdi.github.io).
   - Machine Unlearning
-  - Knowledge Editing
 
 - 💻 Selective courses **ALL IN CS**! Here is the code repository [SUSTech-Notes-of-CS](https://github.com/lxriscute0501/SUSTech-Notes-of-CS)
 
 - 📫 Email: 12312110@mail.sustech.edu.cn
 
-- 😄 Hobbies: 
-    - **Laws**: [@CUPL](http://en.cupl.edu.cn) 2022 but dropped out, mainly focus on **criminal law**
+- 😄 Hobbies:
+    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭(3) 🇹🇭 🇱🇦 🇸🇬 🇲🇾(2) 🇧🇳, 🇵🇭 🇰🇷
     - **Language learning**: Japanese, Spanish, German, Vietnamese
-    - **Travelling**: 🇭🇰 🇲🇴 🇻🇳 🇰🇭 🇹🇭 🇱🇦 🇸🇬 🇲🇾 🇧🇳
+    - **Laws**: [@CUPL](http://en.cupl.edu.cn) 2022 but dropped out, mainly focus on **criminal law**
     - **Snooker**
